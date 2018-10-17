@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <question type="truefalse">
- <answer fraction="100">
+ <answer fraction="1000">
     <text>true</text>
     <feedback><text>Correct!</text></feedback>
  </answer>
